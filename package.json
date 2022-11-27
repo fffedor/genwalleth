@@ -1,0 +1,18 @@
+{
+  "name": "genwalleth",
+  "description": "CLI utility for generating ethereum wallets with specified letters and numbers",
+  "version": "1.0.0",
+  "bin": {
+    "genwalleth": "bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "js-sha3": "^0.8.0",
+    "randombytes": "^2.1.0",
+    "secp256k1": "^4.0.3",
+    "yargs": "^17.6.2"
+  }
+}
