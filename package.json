@@ -19,7 +19,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fffedor/genwalleth.git"
+    "url": "https://github.com/fffedor/genwalleth.git"
   },
   "keywords": [
     "generating",
