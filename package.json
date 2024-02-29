@@ -1,7 +1,7 @@
 {
   "name": "genwalleth",
   "description": "CLI utility for generating ethereum wallets with specified letters and numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bin": {
     "genwalleth": "bin/index.js"
   },
