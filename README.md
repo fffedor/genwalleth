@@ -10,6 +10,7 @@ Options:
   -s, --sensitive  Case sensitive mode
   -p, --prefix     Search at the beginning of the address (suffix by default)
   -j, --json       Return result as JSON
+  -t, --threads    Number of threads (CPUs count by default)
 ```
 
 ### Installation
